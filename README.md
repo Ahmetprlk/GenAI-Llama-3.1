@@ -1,0 +1,1 @@
+Bu, e-posta oluşturucu adı verilen bir araç oluşturmak için Llama3.1 açık kaynak LLM, chromadb (vektör deposu), Langchain ve Streamlit'i kullanacak uçtan uca LLM ve gen ai projesidir. Bu araçlar, Yazılım ve Yapay Zeka hizmetleri şirketlerinin potansiyel müşterilerine e-posta göndermesine yardımcı olur.
